@@ -1,0 +1,28 @@
+const crewImages = [
+    {crimg:"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/lokesh-kanakaraj-1065304-24-03-2017-16-24-31.jpg",
+     crtitle:"Lokesh Kanagaraj",
+     crsubtitle:"Director, Writer, Screenplay, ..."},
+     {crimg:"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/s-s-lalit-kumar-2017807-1663651960.jpg",
+     crtitle:"S. S. Lalit kumar",
+     crsubtitle:"Producer"},
+     {crimg:"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/anirudh-ravichander-34897-24-03-2017-13-54-49.jpg",
+     crtitle:"Anirudh Ravichander",
+     crsubtitle:"Musician, Singer"},
+     {crimg:"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/vijay-2461-20-12-2017-04-37-08.jpg",
+     crtitle:"Vijay",
+     crsubtitle:"Singer"},
+     {crimg:"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/rathna-kumar-1047549-16-10-2017-01-47-33.jpg",
+     crtitle:"Rathna Kumar",
+     crsubtitle:"Dialogue Writer"},
+     {crimg:"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/philomin-raj-2017575-1665748194.jpg",
+     crtitle:"Philomin Raj",
+     crsubtitle:"Editor"},
+     {crimg:"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/eka-lakhani-1086231-19-09-2017-03-26-15.jpg",
+     crtitle:"Eka Lakhani",
+     crsubtitle:"Costume Designer"},
+     {crimg:"https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/gopi-prasannaa-2031723-1697628465.jpg",
+     crtitle:"Gopi Prasanna",
+     crsubtitle:"Publicity Designer"},
+];
+
+export default crewImages;
